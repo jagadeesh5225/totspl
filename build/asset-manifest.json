@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/totspl/static/css/main.96429e72.css",
+    "main.js": "/totspl/static/js/main.d28fd458.js",
+    "static/js/787.3304dd15.chunk.js": "/totspl/static/js/787.3304dd15.chunk.js",
+    "static/media/landingside.png": "/totspl/static/media/landingside.50291388fde4cb774969.png",
+    "static/media/career.png": "/totspl/static/media/career.f94ebe51c3cf46e55395.png",
+    "static/media/landingmobile.png": "/totspl/static/media/landingmobile.01cf16e80f0c7d3d0064.png",
+    "index.html": "/totspl/index.html",
+    "main.96429e72.css.map": "/totspl/static/css/main.96429e72.css.map",
+    "main.d28fd458.js.map": "/totspl/static/js/main.d28fd458.js.map",
+    "787.3304dd15.chunk.js.map": "/totspl/static/js/787.3304dd15.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96429e72.css",
+    "static/js/main.d28fd458.js"
+  ]
+}
